@@ -3,7 +3,7 @@
 - 🖳  Atualmente estudo Engenharia de Computação na Universidade Federal do Rio Grande - FURG
 - ✨ Estudando Python e Linguagem C
 
-## [Don't speak Portuguese?]
+##Don't speak Portuguese?
 <a href="https://github.com/eubrunoo/eubrunoo/blob/main/README-en.md">Click here</a> to view this page in English.
 
 ##
