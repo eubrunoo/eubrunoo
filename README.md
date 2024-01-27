@@ -2,6 +2,9 @@
 
 - 🖳  Atualmente estudo Engenharia de Computação na Universidade Federal do Rio Grande - FURG
 - ✨ Estudando Python e Linguagem C
+
+## [Don't speak Portuguese?](https://github.com/eubrunoo/eubrunoo/blob/main/README-en.md)
+
 ##
 ![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubrunoo&theme=chartreuse-dark&show_icons=true&bg_color=00000000)
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunoo&layout=compact&theme=chartreuse-dark&bg_color=00000000)](https://github.com/eubrunoo/github-readme-stats)
