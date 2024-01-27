@@ -4,7 +4,7 @@
 - ✨ Learning Python and C Language
 
 ## Não fala inglês?
-<a href="https://github.com/eubrunoo">Clique aqui</a> para ver esta página em português.
+<a href="https://github.com/eubrunoo">Clique aqui</a> para ver essa página em português.
 
 ##
 ![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubrunoo&theme=chartreuse-dark&show_icons=true&bg_color=00000000)
