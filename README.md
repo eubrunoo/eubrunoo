@@ -9,7 +9,6 @@
 ##
 ![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubrunoo&theme=chartreuse-dark&show_icons=true)
 
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunoo&layout=compact&theme=chartreuse-dark&bg_color=00000000)](https://github.com/eubrunoo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunoo&theme=chartreuse-dark)](https://github.com/eubrunoo/github-readme-stats)
 
 ##
