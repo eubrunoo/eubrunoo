@@ -7,7 +7,7 @@
 <a href="https://github.com/eubrunoo/eubrunoo/blob/main/README-en.md">Click here</a> to view this page in English.
 
 ##
-![Bruno Moreira's GitHub stats](https://githubreadmestats.vercel.app/apiusername=eubrunoo&theme=dark&show_icons=true&bg_color=00000000)
+![Bruno Moreira's GitHub stats](https://github-readmestats.vercel.app/apiusername=eubrunoo&theme=dark&show_icons=true&bg_color=00000000)
 
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunoo&layout=compact&theme=chartreuse-dark&bg_color=00000000)](https://github.com/eubrunoo/github-readme-stats)
 
