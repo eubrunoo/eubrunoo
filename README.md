@@ -9,7 +9,7 @@
 ##
 ![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubrunoo&theme=chartreuse-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunoo&theme=chartreuse-dark&layout=compact&?hide=jupyternoteboook)](https://github.com/eubrunoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunoo&theme=chartreuse-dark&layout=compact&?hide=jupyternotebook)](https://github.com/eubrunoo/github-readme-stats)
 
 ##
 <img align="center" alt="Bruno-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img align="center" alt="Bruno-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
