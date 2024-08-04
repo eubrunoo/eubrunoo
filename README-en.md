@@ -1,11 +1,5 @@
 ### Bruno Moreira 🌐
 
-- 🖳 Currently studying Computer Engineering at Federal University of Rio Grande - FURG
-- ✨ Learning Python and C Language
-
-## Não fala inglês?
-<a href="https://github.com/eubrunoo">Clique aqui</a> para ver essa página em português.
-
 ##
 ![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubrunoo&theme=chartreuse-dark&show_icons=true&bg_color=00000000)
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunoo&layout=compact&theme=chartreuse-dark&bg_color=00000000)](https://github.com/eubrunoo/github-readme-stats)
