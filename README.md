@@ -29,3 +29,5 @@
   <a href="https://www.linkedin.com/in/bruno-moreira-6049a2257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eubrunoo&theme=dark" alt="eubrunoo" /></p>
