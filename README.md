@@ -2,9 +2,10 @@
 <h3 align="center">An aspiring Data Scientist from Brazil, passionate about innovation.</h3>
 
 ##
+
+![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubrunoo&theme=chartreuse-dark&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eubrunoo&theme=chartreuse-dark&show" alt="eubrunoo"/>
 <p align="center">
-  ![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubrunoo&theme=chartreuse-dark&show_icons=true)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eubrunoo&theme=chartreuse-dark&show" alt="eubrunoo"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eubrunoo&show_icons=true&theme=chartreuse-dark&show&locale=en&layout=compact" alt="eubrunoo" />
 </p>
 
