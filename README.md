@@ -28,7 +28,25 @@
   
 </div>
 
+
+
+
+
+
 ![snake gif](https://github.com/eubrunoo/eubrunoo/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
