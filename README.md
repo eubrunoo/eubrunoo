@@ -5,9 +5,7 @@
 
 ![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubrunoo&theme=chartreuse-dark&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eubrunoo&theme=chartreuse-dark&show" alt="eubrunoo"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eubrunoo&show_icons=true&theme=chartreuse-dark&show&locale=en&layout=compact" alt="eubrunoo" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eubrunoo&show_icons=true&theme=chartreuse-dark&show&locale=en&layout=compact" alt="eubrunoo" />
 
 ##
 <h3 align="left">Languages and Tools:</h3>
