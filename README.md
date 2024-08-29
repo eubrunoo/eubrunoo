@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Bruno and I'm a Data Science enthusiast from Brazil🌐</h2>
+<h2 align="left">Hi👋! My name is Bruno and I'm a Data Science enthusiast from Brazil</h2>
 
 ###
 
