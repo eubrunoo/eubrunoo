@@ -1,50 +1,41 @@
-<h2 align="left">Hi👋! My name is Bruno and I'm a Data Engineering enthusiast from Brazil</h2>
-
-###
-
+<h2 align="left">Hi 👋! My name is Bruno and I'm a Data Engineering enthusiast from Brazil</h2>
 
 <div align="center">
-  <img src= "https://github-readme-stats.vercel.app/api?username=eubrunoo&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eubrunoo&locale=en&hide=jupyter%20notebook&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true"   height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=eubrunoo&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eubrunoo&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eubrunoo&locale=en&hide=jupyter%20notebook&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="170" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=eubrunoo&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5" height="170" alt="streak graph" />
 </div>
 
-###
+<br>
 
-<div align="right" >
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJwOWk4Z2k0YXZ2dnU0a2p5aWlwNzNtN3pkOXJyeTF2bWszcDFmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/50fuVHMGUVszu/giphy.webp"  />
+<div align="right">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJwOWk4Z2k0YXZ2dnU0a2p5aWlwNzNtN3pkOXJyeTF2bWszcDFmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/50fuVHMGUVszu/giphy.webp" />
 </div>
 
-###
+<br>
 
-
-<div align="left">
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,c,sqlite,react,mysql,flask,blender" /> </a>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  </p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,c,sqlite,react,mysql,flask,blender" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
 </div>
-###
+
+<br>
 
 <div align="left">
   <a href="https://www.instagram.com/eubruno.bm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="moreirabcf04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:moreirabcf04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/eubrunobm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/eubrunoo/eubrunoo/output/snake.svg" alt="Snake animation" />
-
-###
