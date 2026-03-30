@@ -14,7 +14,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,c,sqlite,react,mysql,flask,blender" />
   </a>
