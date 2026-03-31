@@ -1,9 +1,7 @@
 <h2 align="left">Hi 👋! My name is Bruno and I'm a Data Engineering enthusiast from Brazil</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eubrunoo&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eubrunoo&locale=en&hide=jupyter%20notebook&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="170" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=eubrunoo&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5" height="170" alt="streak graph" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eubrunoo&theme=codestackr&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <br>
