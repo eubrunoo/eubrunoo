@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bruno and I'm a Data Engineering enthusiast from Brazil</h2>
+<h2 align="left">Hi 👋! I'm Bruno, passionate about Data Engineering and building real-world solutions</h2>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eubrunoo&theme=codestackr&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
